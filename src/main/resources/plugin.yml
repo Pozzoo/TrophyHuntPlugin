@@ -1,0 +1,7 @@
+name: treasureHunt
+version: '${project.version}'
+main: com.github.pozzoo.treasurehunt.TreasureHunt
+api-version: '1.20'
+commands:
+  tesouro:
+  clear_tesouros:
